@@ -40,7 +40,7 @@
 Claude Code / Codex / Cherry Studio 开箱即接（Base URL `https://aimyria.com`）。
 上表第三方站点为独立探测数据，与自营口径分开，无返佣关系。
 
-**新用户福利（2026-11-20 起）**：注册即送 $0.5 试用额度；首充限时加赠 15%（2026-11-30 截止）；首 $1 消费 5.5 折。领取 → https://aimyria.com/register?utm_source=relay-review&utm_medium=parasite&utm_campaign=launch_1120
+**新用户福利（2026-11-20 起）**：注册即送 $0.5 试用额度；首充限时加赠 15%（2026-11-30 截止）。领取 → https://aimyria.com/register?utm_source=relay-review&utm_medium=parasite&utm_campaign=launch_1120
 
 ## 更新记录
 
